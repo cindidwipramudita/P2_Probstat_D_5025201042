@@ -37,18 +37,16 @@ Dikarenakan nilai pvalue< alpha(0,05) maka keputusan yang diambil adalah Tolak H
 ## No 3
 ### 3. a 
 
-![Soal 3 a](https://github.com/cindidwipramudita/P2_Probstat_D_5025201042/blob/main/Picture5.png)
-
 H0 : mu = mu0
 mu !=(tidak sama dengan) mu0
 
 ### 3. c 
 
-![Soal 3 c](https://github.com/cindidwipramudita/P2_Probstat_D_5025201042/blob/main/Picture6.png)
+![Soal 3 c](https://github.com/cindidwipramudita/P2_Probstat_D_5025201042/blob/main/Picture5.png)
 
 ### 3. d 
 
-![Soal 3 d](https://github.com/cindidwipramudita/P2_Probstat_D_5025201042/blob/main/Picture7.png)
+![Soal 3 d](https://github.com/cindidwipramudita/P2_Probstat_D_5025201042/blob/main/Picture6.png)
 
 ### 3. e
 
